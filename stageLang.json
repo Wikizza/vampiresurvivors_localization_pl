@@ -1,29 +1,4 @@
 {
-  "xx": {},
-  "en": {
-    "english": "English",
-    "native": "English",
-    "api": "english",
-    "translations": {
-      "FOREST": {
-        "stageName": "Mad Forest",
-        "description": "The Castle is a lie, but there's still free roast chicken here, so it's all good.",
-        "hyperTips": "50% Gold bonus"
-      },
-      "LIBRARY": {
-        "stageName": "Inlaid Library",
-        "description": "This quiet, long library is the ideal place where to rest, meditate, and forage for roast chicken. But what's a stone mask doing here?",
-        "hyperTips": "50% Gold bonus\n10% Luck bonus"
-      },
-      "GREENACRES": {
-        "stageName": "Green Acres",
-        "description": "A place where mortals are not allowed. Fate changes every minute.",
-        "tips": "Enemies health +50%",
-        "hyperTips": "50% Gold bonus\n10% Luck bonus"
-      }
-    }
-  },
- 
   "pl": {
     "english": "Polish",
     "native": "Polski",

@@ -1,86 +1,4 @@
 {
-  "xx": {},
- 
-  "en": {
-    "english": "English",
-    "native": "English",
-    "api": "english",
-    "translations": {
-      "POWER": {
-        "name": "Might",
-        "description": "Raises inflicted damage by 5% per rank (max +25%)."
-      },
-      "REGEN": {
-        "name": "Recovery",
-        "description": "Recovers 0.1 HP per rank (max 0.5) per second."
-      },
-      "MAXHEALTH": {
-        "name": "Max Health",
-        "description": "Augments max health by 10% per rank (max +30%)"
-      },
-      "ARMOR": {
-        "name": "Armor",
-        "description": "Reduces incoming damage by 1 per rank (max -3)"
-      },
-      "AREA": {
-        "name": "Area",
-        "description": "Augments area of attacks by 5% per rank (max +10%)."
-      },
-      "SPEED": {
-        "name": "Speed",
-        "description": "Projectiles move 10% faster per rank (max 20%)."
-      },
-      "COOLDOWN": {
-        "name": "Cooldown",
-        "description": "Uses weapons 2.5% faster per rank (max 5%)."
-      },
-      "DURATION": {
-        "name": "Duration",
-        "description": "Effects from weapons last 15% longer per rank (max +30%)."
-      },
-      "AMOUNT": {
-        "name": "Amount",
-        "description": "Fires 1 more projectile (all weapons)."
-      },
-      "MOVESPEED": {
-        "name": "MoveSpeed",
-        "description": "Character moves 5% faster per rank (max 10%)."
-      },
-      "MAGNET": {
-        "name": "Magnet",
-        "description": "Items pickup range +25% per rank (max +50%)."
-      },
-      "LUCK": {
-        "name": "Luck",
-        "description": "Chance to get lucky goes up by 10% per rank (max +30%)."
-      },
-      "GROWTH": {
-        "name": "Growth",
-        "description": "Gains 3% more experience per rank (max 15%)."
-      },
-      "GREED": {
-        "name": "Greed",
-        "description": "Gains 10% more coins per rank (max +50%)."
-      },
-      "SHIELD": {
-        "name": "Shield",
-        "description": "Prevents damage for one attack. Stacks with Laurel."
-      },
-      "REVIVAL": {
-        "name": "Revival",
-        "description": "Revives once with 50% health."
-      },
-      "REROLL": {
-        "name": "Reroll",
-        "description": "Once per rank, allows to get different choices when leveling up."
-      },
-      "SKIP": {
-        "name": "Skip",
-        "description": "Once per rank, allows to skip level up choices and get Experience instead."
-      }
-    }
-  },
- 
   "pl": {
     "english": "Polish",
     "native": "Polski",
@@ -160,4 +78,4 @@
       }
     }
   },
- 
+}
